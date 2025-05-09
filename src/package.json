@@ -1,0 +1,15 @@
+{
+  "name": "apinode",
+  "version": "1.0.0",
+  "description": "Criação de API com NodeJs - Téc. FADS Puc Minas 4° Semestre",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Ferraz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "tedious": "^18.6.1"
+  }
+}
