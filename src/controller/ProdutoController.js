@@ -131,3 +131,14 @@ exports.listarProdutosCategoria = async (req, res) => {
   }
 
 }
+
+exports.listarPrimeirosProdutos = async (req, res) => {
+  try {
+    const pool = await getConnection();
+    const result = await pool.request()
+      .query("SELECT TOP 12 * FROM Produto ORDER BY Codigo");
+    res.json(result.recordset);
+  } catch (error) {
+    res.status(500).json({ erro: "Erro ao listar os primeiros produtos", detalhes: error.message });
+  }
+};

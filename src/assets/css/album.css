@@ -1,0 +1,107 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.logo {
+    width: 50%;
+}
+.line-1 {
+    height: 2px;
+    background-color: black;
+  
+}
+.all-button {
+    width: 100%;
+    height: 100%;
+}
+.carrousel-img{
+ height: 400px;
+ width: 100%;
+}
+
+.all-img-santorini {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.text-header h4{
+    color:  rgb(82, 206, 255);
+}
+
+
+.gallery-custom button {
+    border: 0px;
+    padding: 0px;
+}
+.carrousel-text-custom {
+    color: yellow;
+    text-shadow: black 0.2em 0.2em 0.3em;
+}
+@media screen and (max-width: 280px){
+    .carrousel-img {
+        width: 100%;
+        object-fit: cover;
+        height: 300px;
+    }
+    .texto-custom-header {
+        text-align: justify;
+    }
+    .subtexto-custom-header {
+        flex-direction: column;
+    }
+    .custom-logo{
+        width: 99%;
+    }
+    .all-img-santorini {
+        width: 100%;
+        height: 150px;
+    }
+}
+@media screen and (max-width: 576px){
+    .carrousel-img {
+        width: 100%;
+        object-fit: cover;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .custom-logo{
+        width: 70%;
+    }
+    .carrousel-img{
+        height: 400px;
+        width: 100%;
+       }
+       .modal-dialogo {
+        width: 500px;
+       }
+    }
+
+@media screen and (min-width: 992px){
+    .custom-logo{
+        width: 50%;
+    }
+    .carrousel-img {
+        width: 100%;
+        object-fit: cover;
+        height: 600px;
+    }
+
+}
+
+@media screen and (min-width: 1200px){
+    .carrousel-img {
+        width: 100%;
+        object-fit: cover;
+        height: 650px;
+    }
+}
+@media screen and (min-width: 1400px){
+    .carrousel-img {
+        width: 100%;
+        object-fit: cover;
+        height: 700px;
+    }
+}

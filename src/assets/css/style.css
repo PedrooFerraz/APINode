@@ -1,0 +1,101 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.logo {
+    width: 50%;
+}
+.destaque-text {
+    color: yellow;
+    text-shadow: black 0.2em 0.2em 0.3em;
+}
+.line-1 {
+    height: 2px;
+    background-color: black;
+  
+}
+.custom-carrousel{
+    height: 250px;
+}
+.custom-carrousel-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.map {
+    width: 100%;
+    height: 200px;
+}
+.redes-sociais {
+    height: 40px;
+}
+.custom-link{
+    text-decoration: none;
+}
+.custom-link div p:hover{
+   color: rgb(82, 206, 255);
+}
+.img-social-custom {
+    width: 100%;
+    height: 40px;
+}
+.img-album-custom{
+    object-fit: cover;
+}
+.text-album-custom{
+    height: 100px;
+}
+@media screen and (min-width: 576px){
+
+    .custom-carrousel{
+        height: 350px;
+    }
+    .map {
+        width: 100%;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .custom-logo{
+        width: 70%;
+    }
+    .custom-carrousel{
+        height: 500px;
+    }
+    .map {
+        width: 100%;
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .custom-logo{
+        width: 50%;
+    }
+    .custom-carrousel{
+        height: 600px;
+    }
+    .map {
+        width: 100%;
+        height: 500px;
+    }
+}
+@media screen and (max-width: 280px) {
+    .autoria-custom {
+        flex-direction: column;
+    }
+    .social-custom {
+        flex-direction: column;
+    }
+    .social-custom img {
+        height: 40px;
+        margin-top: 10px;
+    }
+    .text-album-custom {
+        height: 100px;
+    }
+}

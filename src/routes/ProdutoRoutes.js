@@ -8,5 +8,6 @@ router.get("/produtos/categoria/:categoria", produtoController.listarProdutosCat
 router.post("/produtos", produtoController.criarProduto);
 router.put("/produtos/:codigo", produtoController.atualizarProduto);
 router.delete("/produtos/:codigo", produtoController.deletarProduto);
+router.get('/produtos/1/primeiros', produtoController.listarPrimeirosProdutos);
 
 module.exports = router;

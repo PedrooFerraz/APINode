@@ -1,0 +1,202 @@
+{
+  "albuns": [
+    {
+      "id": 1,
+      "title": "Santorini",
+      "description": "Santorini é uma deslumbrante ilha grega situada no Mar Egeu. Conhecida por suas vistas de tirar o fôlego, casas caiadas de branco com telhados azuis, praias de areia vulcânica e pores do sol espetaculares, Santorini é um destino turístico popular e romântico. A ilha também é famosa por sua rica história arqueológica, vinícolas únicas que produzem vinho de alta qualidade e sua arquitetura singular que se funde harmoniosamente com a paisagem vulcânica. É um local de férias que combina beleza natural, cultura, gastronomia e relaxamento.",
+      "loc": "Santorini, Grécia (36.393154, 25.461510)",
+      "date": "03/12/2023",
+      "imgURL": "./assets/img/santorini_destaque.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Capri",
+      "description": "Capri, uma ilha na Itália, é um paraíso mediterrâneo conhecido por suas deslumbrantes paisagens costeiras, grutas marítimas espetaculares, e atmosfera sofisticada. Com falésias dramáticas, águas azuis cristalinas e charmosas ruas de paralelepípedos, é um destino que combina beleza natural e elegância mediterrânea de maneira única.",
+      "loc": "Capri, Itália (40.5499978, 14.2333324)",
+      "date": "03/12/2023",
+      "imgURL": "./assets/img/capri/Faraglioni.jpg"
+    }
+  ],
+  "fotos": [
+    {
+      "id": 1,
+      "imgURL": "./assets/img/santorini/1.jpg",
+      "description": "The Heart of Santorini",
+      "loc": "Megalochori",
+      "albumID": 1
+    },
+    {
+      "id": 2,
+      "imgURL": "./assets/img/santorini/2.jpg",
+      "description": "Toda foto de Santorini fica linda, não importa para onde você aponte sua câmera e qual lente você use",
+      "loc": "Mar Egeu",
+      "albumID": 1
+    },
+    {
+      "id": 3,
+      "imgURL": "./assets/img/santorini/3.jpg",
+      "description": "A pitoresca vila de Oia é famosa por suas casas brancas com telhados azuis e vistas deslumbrantes do pôr do sol sobre o mar Egeu",
+      "loc": "Oia",
+      "albumID": 1
+    },
+    {
+      "id": 4,
+      "imgURL": "./assets/img/santorini/4.jpg",
+      "description": "A capital de Santorini, Fira, oferece vistas panorâmicas, lojas encantadoras e uma vida noturna animada",
+      "loc": "Fira",
+      "albumID": 1
+    },
+    {
+      "id": 5,
+      "imgURL": "./assets/img/santorini/5.jpg",
+      "description": "Uma praia de areia negra com águas cristalinas, perfeita para relaxar e nadar",
+      "loc": "Praia de Kamari",
+      "albumID": 1
+    },
+    {
+      "id": 6,
+      "imgURL": "./assets/img/santorini/6.jpg",
+      "description": "Uma das praias mais únicas de Santorini, com falésias vermelhas e águas azuis profundas",
+      "loc": "Praia de Red Beach",
+      "albumID": 1
+    },
+    {
+      "id": 7,
+      "imgURL": "./assets/img/santorini/7.jpg",
+      "description": "Um sítio arqueológico que preserva as ruínas da antiga cidade de Akrotiri, que foi enterrada pelas cinzas vulcânicas",
+      "loc": "Akrotiri",
+      "albumID": 1
+    },
+    {
+      "id": 8,
+      "imgURL": "./assets/img/santorini/8.jpg",
+      "description": "Um farol pitoresco que oferece vistas panorâmicas da costa sul de Santorini",
+      "loc": "Farol de Akrotiri",
+      "albumID": 1
+    },
+    {
+      "id": 9,
+      "imgURL": "./assets/img/santorini/9.jpg",
+      "description": "Um mosteiro impressionante situado no topo da montanha mais alta de Santorini, com vistas panorâmicas da ilha",
+      "loc": "Mosteiro de Profitis Ilias",
+      "albumID": 1
+    },
+    {
+      "id": 10,
+      "imgURL": "./assets/img/santorini/10.jpg",
+      "description": "Uma pequena baía com águas cristalinas, restaurantes à beira-mar e vistas deslumbrantes das falésias de Oia",
+      "loc": "Amoudi Bay",
+      "albumID": 1
+    },
+    {
+      "id": 11,
+      "imgURL": "./assets/img/santorini/11.jpg",
+      "description": "Este museu em Fira abriga uma coleção fascinante de artefatos pré-históricos da ilha, incluindo cerâmicas, esculturas e pinturas murais antigas",
+      "loc": "Museu Pré-Histórico de Thera",
+      "albumID": 1
+    },
+    {
+      "id": 12,
+      "imgURL": "./assets/img/santorini/12.jpg",
+      "description": "Esta praia é conhecida por sua areia vulcânica branca e águas cristalinas. Ela fica próxima à Praia de Red Beach e oferece um ambiente igualmente impressionante. As formações rochosas brancas e as águas azuis do Mar Egeu proporcionam um cenário espetacular para fotografias",
+      "loc": "Praia de White Beach",
+      "albumID": 1
+    },
+    {
+      "id": 13,
+      "imgURL": "./assets/img/capri/ Villa Jovi.jpg",
+      "description": "Uma das doze vilas construídas pelo imperador romano Tibério em Capri, esta villa oferece uma visão fascinante da história da ilha",
+      "loc": "Villa Jovis",
+      "albumID": 2
+    },
+    {
+      "id": 14,
+      "imgURL": "./assets/img/capri/Anacapri.jpg",
+      "description": "Uma cidade montanhosa localizada na parte ocidental da ilha. É mais tranquila do que Capri Town e oferece uma experiência mais autêntica",
+      "loc": "Anacapri",
+      "albumID": 2
+    },
+    {
+      "id": 15,
+      "imgURL": "./assets/img/capri/Blue Grotto (Grotta Azzurra).jpg",
+      "description": "Uma das atrações mais famosas de Capri, é uma caverna inundada de azul brilhante devido à luz solar que entra através da água",
+      "loc": "Blue Grotto",
+      "albumID": 2
+    },
+    {
+      "id": 16,
+      "imgURL": "./assets/img/capri/Faraglioni.jpg",
+      "description": "Um ícone de Capri, essas formações rochosas são famosas mundialmente. Você pode apreciá-las a partir de um barco ou até mesmo fazer uma caminhada ao redor delas",
+      "loc": "Faraglioni",
+      "albumID": 2
+    },
+    {
+      "id": 17,
+      "imgURL": "./assets/img/capri/Gardens of Augustus .jpg",
+      "description": "Estes jardins oferecem uma vista deslumbrante da famosa Via Krupp e do Mar Tirreno. Eles são adornados com uma grande variedade de plantas exóticas",
+      "loc": "Gardens of Augustus",
+      "albumID": 2
+    },
+    {
+      "id": 18,
+      "imgURL": "./assets/img/capri/Marina Grande.jpg",
+      "description": "O principal porto de Capri, onde os ferries chegam e partem. Você encontrará restaurantes de frutos do mar frescos e uma atmosfera animada",
+      "loc": "Marina Grande",
+      "albumID": 2
+    },
+    {
+      "id": 19,
+      "imgURL": "./assets/img/capri/Marina Piccola.jpg",
+      "description": "Uma das praias mais pitorescas da ilha, com águas cristalinas e uma atmosfera encantadora. É um ótimo local para relaxar e nadar",
+      "loc": "Marina Piccola",
+      "albumID": 2
+    },
+    {
+      "id": 20,
+      "imgURL": "./assets/img/capri/Monte Solaro.jpg",
+      "description": "A montanha mais alta de Capri, acessível por teleférico. No topo, você terá vistas espetaculares da ilha e do mar",
+      "loc": "Monte Solaro",
+      "albumID": 2
+    },
+    {
+      "id": 21,
+      "imgURL": "./assets/img/capri/Piazza Umberto I (Piazzetta).jpg",
+      "description": "O centro de Capri Town, também conhecido como 'A Pequena Praça'. É o local perfeito para tomar um café e observar as pessoas",
+      "loc": "Piazza Umberto I (Piazzetta)",
+      "albumID": 2
+    },
+    {
+      "id": 22,
+      "imgURL": "./assets/img/capri/Punta Carena Lighthouse.jpg",
+      "description": "Um farol pitoresco localizado na ponta oeste da ilha, oferecendo vistas deslumbrantes do pôr do sol sobre o mar",
+      "loc": "Punta Carena Lighthouse",
+      "albumID": 2
+    },
+    {
+      "id": 23,
+      "imgURL": "./assets/img/capri/Via Krupp.jpg",
+      "description": "Uma sinuosa estrada que liga os Jardins de Augusto à Marina Piccola, com vistas deslumbrantes ao longo do caminho",
+      "loc": "Via Krupp",
+      "albumID": 2
+    },
+    {
+      "id": 24,
+      "imgURL": "./assets/img/capri/Villa San Michele.jpg",
+      "description": "Antiga residência do escritor sueco Axel Munthe, esta vila oferece vistas panorâmicas incríveis da ilha e do Golfo de Nápoles",
+      "loc": "Villa San Michele",
+      "albumID": 2
+    }
+  ],
+  "destaque": [
+    {
+      "albunID": "1",
+      "description": "Melhores lugares para se visitar!",
+      "id": 3
+    },
+    {
+      "albunID": "2",
+      "description": "Paraiso a beira mar!",
+      "id": 4
+    }
+  ]
+}
